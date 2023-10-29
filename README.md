@@ -1,6 +1,7 @@
 Rock-Paper-Scissors Game
 
 Introduction
+
 This is a simple implementation of the classic Rock-Paper-Scissors game. Enjoy playing against a computer opponent and test your luck!
 
 How to Play
@@ -13,4 +14,5 @@ How to Play
 6. That's it! Have fun playing.
 
 License
+
 This project is licensed under the MIT License.
