@@ -1,10 +1,10 @@
-Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
-Introduction
+## Introduction
 
 This is a simple implementation of the classic Rock-Paper-Scissors game. Enjoy playing against a computer opponent and test your luck!
 
-How to Play
+## How to Play
 
 1. Open the game in your web browser. 
 2. Enter your choice: Rock, Paper, or Scissors when prompted. 
@@ -13,6 +13,6 @@ How to Play
 5. The game consists of 5 rounds, and at the end, the final winner will be announced. 
 6. That's it! Have fun playing.
 
-License
+## License
 
 This project is licensed under the MIT License.
